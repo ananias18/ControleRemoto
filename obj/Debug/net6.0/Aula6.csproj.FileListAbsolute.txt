@@ -1,0 +1,15 @@
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\bin\Debug\net6.0\Aula6.exe
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\bin\Debug\net6.0\Aula6.deps.json
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\bin\Debug\net6.0\Aula6.runtimeconfig.json
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\bin\Debug\net6.0\Aula6.dll
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\bin\Debug\net6.0\Aula6.pdb
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.csproj.AssemblyReference.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.AssemblyInfoInputs.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.AssemblyInfo.cs
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.dll
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\refint\Aula6.dll
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.pdb
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\Aula6.genruntimeconfig.cache
+D:\Desenvolvimento Visualcode\Orientação obguana\aula06_encapsulamento\Controlador\Aula6\obj\Debug\net6.0\ref\Aula6.dll
